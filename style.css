@@ -46,7 +46,7 @@ header {
     font-size:larger;
 }a:hover {
     color: #0000FF;
-    text-decoration: underline 3px solid #000080;
+    text-decoration: underline 2px solid #000080;
 }
 
 
@@ -62,4 +62,5 @@ div {
 #contact {
 	padding: 2em 0;
 	height: 100vh;
+    text-align: center;
 }

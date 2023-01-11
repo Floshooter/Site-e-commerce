@@ -16,7 +16,7 @@
             <p>Bongout</p>
         </div> -->
         <div class="nav-container">
-            <a class="nav-text" href="./index.html">Page d'accueil</a>
+            <a class="nav-text" href="./index.php">Page d'accueil</a>
             <a class="nav-text" href="./produits.php">Nos produits</a>
         </div>
         <div class="sign-container">
@@ -41,7 +41,7 @@
     <footer>
         <hr>
         <div class="nav-container">
-            <a class="nav-text" href="./index.html">Page d'accueil</a>
+            <a class="nav-text" href="./index.php">Page d'accueil</a>
             <a class="nav-text" href="./produits.php">Nos produits</a>
         </div>
     </footer>
