@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <title>Bongout - Inscription</title>
+    <title>Bongout - e-commerce alimentaire</title>
 </head>
 <body>
     <header>
@@ -29,28 +29,15 @@
     </header>
     <hr>
     <main>
-        <section id="contact">
-            <form>
-                <fieldset>
-                    <legend><h3>Information personnelles</h3></legend>
-                    <p>
-                        Civilité :<br>
-                        <input type="radio" name="Genre" id="M."> 
-                        <label for="M.">M.</label>
-                        <input type="radio" name="Genre" id="Mme."> 
-                        <label for="Mme.">Mme.</label><br><br>
-
-                        <label for="Nom">Nom :</label><br>
-                        <input type="text" name="Nom" placeholder="Ex: Dupuis" id="Nom"><br><br>
-                        <label for="Prénom">Prénom :</label><br>
-                        <input type="text" name="Prénom" placeholder="Ex: Michel" id="Prénom"><br><br>
-                        <label for="Mail">Mail :</label><br>
-                        <input type="email" name="Mail" placeholder="exemple@exemple.com" id="Mail"> 
-                    </p>
-                </fieldset>
-            </form>
-        </section>
+        <h1>Présentation</h1>
+        <p>
+            Bongout est un site de e-commerce de produits alimentaire frais, surgelés et naturels. Il y a 
+            plusieurs catégories de produits : les fruits et légumes, apéritifs, produits laitiers...<br>
+            PS: Tous ces produits, proviennent d'éleveurs et d'agriculteurs français.<br><br>
+            Pour accéder à la liste des produits, cliquez <a href="./produits.php">ici</a>.
+        </p>
     </main>
+
     <footer>
         <hr>
         <div class="nav-container">
