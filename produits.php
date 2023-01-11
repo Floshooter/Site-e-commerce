@@ -45,7 +45,7 @@
             // $fruitsetlegumes1 = $connexion->query($aperitifs);
 
             foreach ($aperitifs1 as $aperitifs2) {
-                echo $aperitifs2['nom_produit',].'<br>';
+                echo $aperitifs2['nom_produit'].'<br>';
                 echo $aperitifs2['prix'].'<br>';
                 echo $aperitifs2['image_url'].'<br>';
             };
